@@ -1,0 +1,15 @@
+C:\Users\ThuyVan\source\repos\BoomOffline\BoomOffline\bin\Debug\BoomOffline.exe.config
+C:\Users\ThuyVan\source\repos\BoomOffline\BoomOffline\bin\Debug\BoomOffline.exe
+C:\Users\ThuyVan\source\repos\BoomOffline\BoomOffline\bin\Debug\BoomOffline.pdb
+C:\Users\ThuyVan\source\repos\BoomOffline\BoomOffline\obj\Debug\BoomOffline.Properties.Resources.resources
+C:\Users\ThuyVan\source\repos\BoomOffline\BoomOffline\obj\Debug\BoomOffline.csproj.GenerateResource.cache
+C:\Users\ThuyVan\source\repos\BoomOffline\BoomOffline\obj\Debug\BoomOffline.csproj.CoreCompileInputs.cache
+C:\Users\ThuyVan\source\repos\BoomOffline\BoomOffline\obj\Debug\BoomOffline.exe
+C:\Users\ThuyVan\source\repos\BoomOffline\BoomOffline\obj\Debug\BoomOffline.pdb
+C:\Users\ThuyVan\source\repos\BoomOffline\BoomOffline\obj\Debug\BoomOffline.Form1.resources
+C:\Users\ThuyVan\source\repos\BoomOffline\BoomOffline\obj\Debug\BoomOffline.csprojAssemblyReference.cache
+C:\Users\ThuyVan\source\repos\BoomOffline\BoomOffline\obj\Debug\Interop.WMPLib.dll
+C:\Users\ThuyVan\source\repos\BoomOffline\BoomOffline\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ThuyVan\source\repos\BoomOffline\BoomOffline\obj\Debug\BoomOffline.csproj.ResolveComReference.cache
+C:\Users\ThuyVan\source\repos\BoomOffline\BoomOffline\bin\Debug\Interop.WMPLib.dll
+C:\Users\ThuyVan\source\repos\BoomOffline\BoomOffline\bin\Debug\AxInterop.WMPLib.dll

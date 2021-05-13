@@ -1,0 +1,9 @@
+C:\Users\ThuyVan\source\repos\BoomOffline\BoomOffline\bin\Release\BoomOffline.exe.config
+C:\Users\ThuyVan\source\repos\BoomOffline\BoomOffline\bin\Release\BoomOffline.exe
+C:\Users\ThuyVan\source\repos\BoomOffline\BoomOffline\bin\Release\BoomOffline.pdb
+C:\Users\ThuyVan\source\repos\BoomOffline\BoomOffline\obj\Release\BoomOffline.Form1.resources
+C:\Users\ThuyVan\source\repos\BoomOffline\BoomOffline\obj\Release\BoomOffline.Properties.Resources.resources
+C:\Users\ThuyVan\source\repos\BoomOffline\BoomOffline\obj\Release\BoomOffline.csproj.GenerateResource.cache
+C:\Users\ThuyVan\source\repos\BoomOffline\BoomOffline\obj\Release\BoomOffline.csproj.CoreCompileInputs.cache
+C:\Users\ThuyVan\source\repos\BoomOffline\BoomOffline\obj\Release\BoomOffline.exe
+C:\Users\ThuyVan\source\repos\BoomOffline\BoomOffline\obj\Release\BoomOffline.pdb
